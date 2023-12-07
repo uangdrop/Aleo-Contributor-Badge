@@ -100,13 +100,13 @@ git commit -m "My first commit"
 
 #### 🟢 CODESPACE USERS PLEASE ENTER THIS CODE ( where it says YOUR-GITHUB-TOKEN , write the token you got from github, and YOUR-USERNAME is Your Github Username)
 
-```shell
-git remote set-url origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Tiktacto
-```
+
 ```shell
 git remote add origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Tiktacto
 ```
-
+```shell
+git remote set-url origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Tiktacto
+```
 ```shell
 git push -f origin main
 ```
