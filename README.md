@@ -93,16 +93,13 @@ git commit -m "My first commit"
 
 #### 🟢 Let's create a Github repo Do as in the picture Go to this address:   https://github.com/new
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/d583a138-4b3c-46aa-a959-4681239fc7d0)
-#### 🟢 VPS USERS ENTER THIS CODE Enter the address of the repo you created
+#### 🟢 ENTER THIS CODE Enter the address of the repo you created
 ```shell
 git remote add origin https://github.com/REPO-ADRESS
 ```
 #### 🟢 Let's create Github Token, give all permissions and get the key. Go to: https://github.com/settings/tokens/new
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/c8bc9705-893e-4ad6-8bce-bd4773b14131)
-#### 🟢 VPS USERS ENTER THIS CODE Enter the command below. Then write your github username and enter the token you created.
-```shell
-git push -f origin main
-```
+
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
 #### 🟢 CODESPACE USERS PLEASE ENTER THIS CODE ( where it says YOUR-GITHUB-TOKEN , write the token you got from github, and YOUR-USERNAME is Your Github Username)
 
