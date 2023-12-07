@@ -104,11 +104,13 @@ git remote add origin https://github.com/REPO-ADRESS
 git push -f origin main
 ```
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
-#### 🟢 CODESPACE USERS PLEASE ENTER THIS CODE ( where it says ****** * , write the token you got from github, ADD YOUR USERNAME)
+#### 🟢 CODESPACE USERS PLEASE ENTER THIS CODE ( where it says YOUR-GITHUB-TOKEN , write the token you got from github, and YOUR-USERNAME is Your Github Username)
 
 ```shell
-git remote set-url origin https:// ********************* @github.com/KULLANICI-ADINIZ/Aleo-Tiktacto
-git remote add origin https:// ********************* @github.com/KULLANICI-ADINIZ/Aleo-Tiktacto
+git remote set-url origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Tiktacto
+```
+```shell
+git remote add origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Tiktacto
 ```
 
 ```shell
