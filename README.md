@@ -115,7 +115,7 @@ git push -f origin main
 ```
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
 <hr>
-******* = GITHUB TOKEN <br><br>
+YOUR-GITHUB-TOKEN = YOUR GITHUB TOKEN <br><br>
 USERNAME: YOUR GITHUB USERNAME <br><br>
 
 Aleo-Tiktacto: github page you created <br>
