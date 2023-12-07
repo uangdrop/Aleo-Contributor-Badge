@@ -100,7 +100,7 @@ git remote add origin https://github.com/REPO-ADRESS
 #### 🟢 Let's create Github Token, give all permissions and get the key. Go to: https://github.com/settings/tokens/new
 ![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/c8bc9705-893e-4ad6-8bce-bd4773b14131)
 
-![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
+
 #### 🟢 CODESPACE USERS PLEASE ENTER THIS CODE ( where it says YOUR-GITHUB-TOKEN , write the token you got from github, and YOUR-USERNAME is Your Github Username)
 
 ```shell
@@ -113,7 +113,7 @@ git remote add origin https://YOUR-GITHUB-TOKEN@github.com/YOUR-USERNAME/Aleo-Ti
 ```shell
 git push -f origin main
 ```
-
+![image](https://github.com/HerculesNode/Aleo-Leo-Contributor-Badge/assets/101635385/e3437aeb-c662-4aec-a100-93022c77710c)
 <hr>
 ******* = GITHUB TOKEN <br><br>
 USERNAME: YOUR GITHUB USERNAME <br><br>
